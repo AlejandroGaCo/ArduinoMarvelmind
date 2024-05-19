@@ -158,7 +158,7 @@ No tiene inputs y no regresa ningún output.
 Ejecutadas después de una lectura, imprimen la información recibida al serial de comunicación. Cada mensaje tiene su correspondiente función.
 ```cpp
 hedge.printPositionFromMarvelmindHedge(false);
- hedge.printStationaryBeaconsPositionsFromMarvelmindHedge(false);
+hedge.printStationaryBeaconsPositionsFromMarvelmindHedge(false);
 hedge.printRawDistancesFromMarvelmindHedge(false);
 hedge.printRawIMUFromMarvelmindHedge(false);
 hedge.printFusionIMUFromMarvelmindHedge(false);
@@ -178,14 +178,14 @@ hedge.getFusionIMUFromMarvelmindHedge(false, FusionIMUValuePro);
 ```
 Reciben como input un parámetro booleano que indica si imprime solo información nueva (*true*) o imprime información que contenga (*false*). También recibe una clase correspondiente al tipo de información que se está pidiendo. Como output regresa un booleano indicando si la información fue actualizada. 
 
-## Notas finales y contacto
+## Notas finales 
 Para funcionalidades y clases adicionales, revisar los códigos de *Marvelmind.h* y *Marvelmind.cpp* [1].
 
-Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en alejandrogaco31@gmail.com
-
 ## Referencias
-[1] Marvelmind Robotics, “Hardware interfaces and protocols of data exchange with Marvelmind devices,” Mar. 2024. Accessed: Apr. 14, 2024. [Online]. Available: https://marvelmind.com/pics/marvelmind_interfaces.pdf
+[1] Marvelmind Robotics, “Hardware interfaces and protocols of data exchange with Marvelmind devices,” Mar. 2024. Consultado el: 14, Abril, 2024. [Online]. Disponible en: https://marvelmind.com/pics/marvelmind_interfaces.pdf
 
-[2] racarla96, “Marvelmind_Arduino_Library,” _GitHub_, Nov. 01, 2020. https://github.com/racarla96/Marvelmind_Arduino_Library (accessed May 05, 2024).
+[2] racarla96, “Marvelmind_Arduino_Library,” _GitHub_, Nov. 01, 2020. https://github.com/racarla96/Marvelmind_Arduino_Library (Consultado el 05, Mayo, 2024).
 
-[3] Marvelmind Robotics, “Marvelmind C,” _GitHub_, Mar. 11, 2018. https://github.com/MarvelmindRobotics/marvelmind.c (accessed May 05, 2024).
+[3] Marvelmind Robotics, “Marvelmind C,” _GitHub_, Mar. 11, 2018. https://github.com/MarvelmindRobotics/marvelmind.c (Consultado el 05, Mayo, 2024).
+
+## Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en alejandrogaco31@gmail.com
