@@ -71,7 +71,7 @@ public:
 ```
 
 ### RawDistancesPro
-Clase usada para guardar las distancias entre el *beacon* actual y los demás beacons.
+Clase usada para guardar las distancias entre el *beacon* actual y los demás *beacons*.
 ```cpp
 class RawDistancesPro
 {
@@ -83,8 +83,6 @@ public:
     bool sorted = false;
 };
 ```
-### FusionIMUValue
-
 
 ### FusionIMUValuePro
 Clase usada para guardar las coordenadas, orientaciones, velocidades y aceleración de un *beacon*.
@@ -178,6 +176,69 @@ hedge.getFusionIMUFromMarvelmindHedge(false, FusionIMUValuePro);
 ```
 Reciben como input un parámetro booleano que indica si imprime solo información nueva (*true*) o imprime información que contenga (*false*). También recibe una clase correspondiente al tipo de información que se está pidiendo. Como output regresa un booleano indicando si la información fue actualizada. 
 
+## Ejemplo
+El siguiente código ejecuta una impresión de la información del IMU del sensor y compara la posición actual contra una posición deseada, regresando el error en metros. 
+```cpp
+//Librería Marvelmind
+#include <Marvelmind.h> 
+
+//Declaramos bjetos a utilizar
+MarvelmindHedge hedge; //hedgehog a declarar
+PositionValuePro Objetvio, Actual; //Posición objetivo y actual
+
+unsigned long t1; //para función millis()
+const unsigned long period = 125; //tasa de refresco en mseg, 8 Hz
+long baudrate = 500000; //baudrate para interfaz Marvelmind
+const int res = 2; //resolución para imprimir valores, número de decimales
+
+float errorPosX, errorPosY; //Variables de error
+
+void setup() {
+  Serial.begin(baudrate);
+  Serial2.begin(baudrate);
+
+  hedge.begin(&Serial2, &Serial); //Declaramos objeto hedge
+  t1 = millis();
+
+  //Declaramos posición Objetivo, (2,2) en el plano en metros
+  Objetivo.x = 2;
+  Objetivo.y = 2;
+}
+
+void loop() {
+  hedge.read();
+  if(millis() - t1 > period){
+
+    //Obtenemos la posición del hedgehog y la guardamos en Actual
+    if (hedge.getPositionFromMarvelmindHedge(true, &Actual)) {
+	Serial.println("Actualice mi posicion");
+    }
+
+
+    errorPosX = Objetivo.x - Actual.x;
+    errorPosY = Objetivo.y - Actual.y;
+    
+    Serial.print("Errores: errorPosX=");
+    Serial.print(errorPosX, res);
+    Serial.print(" PosX=");
+    Serial.print(Actual.x, res);
+    Serial.print(" errorPosY=");
+    Serial.print(errorPosY, res);
+    Serial.print(" PosY=");
+    Serial.print(Actual.y, res);
+    Serial.print(" PosZ=");
+    Serial.println(Actual.Z, res);
+
+    // Imprimimos datos de fusion IMU
+    hedge.printFusionIMUFromMarvelmindHedge(true);
+
+    // Actualizamos tiempo
+    t1 = millis();
+  }
+
+}
+```
+
 ## Notas finales 
 Para funcionalidades y clases adicionales, revisar los códigos de *Marvelmind.h* y *Marvelmind.cpp* [1].
 
@@ -188,4 +249,5 @@ Para funcionalidades y clases adicionales, revisar los códigos de *Marvelmind.h
 
 [3] Marvelmind Robotics, “Marvelmind C,” _GitHub_, Mar. 11, 2018. https://github.com/MarvelmindRobotics/marvelmind.c (Consultado el 05, Mayo, 2024).
 
-## Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en alejandrogaco31@gmail.com
+## Contacto
+Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en alejandrogaco31@gmail.com
