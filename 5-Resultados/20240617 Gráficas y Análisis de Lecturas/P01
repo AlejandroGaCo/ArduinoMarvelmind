@@ -1,0 +1,733 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.06.18 12:37:54 =~=~=~=~=~=~=~=~=~=~=~=
+
+Tiempo: 0.00
+x= 2.32 vx= -0.01y= 0.15 vy= -0.01theta= 0.00 theta_dot= 0.00
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 1.97 u2= 2.00
+
+wL: -0.86 wR: 113.43
+pwmL: -716.64 pwmR: 4619.51
+
+Tiempo: 0.00
+x= 2.32 vx= 0.00y= 0.15 vy= -0.01theta= 1.11 theta_dot= 8.75
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.04 u2= 0.89
+
+wL: 32.94 wR: 83.58
+pwmL: 885.32 pwmR: 3231.25
+
+Tiempo: 0.00
+x= 2.32 vx= 0.01y= 0.15 vy= -0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.04 u2= 0.89
+
+wL: 32.92 wR: 83.56
+pwmL: 884.15 pwmR: 3230.10
+
+Tiempo: 0.00
+x= 2.32 vx= 0.01y= 0.15 vy= -0.00theta= 1.12 theta_dot= 0.04
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.03 u2= 0.88
+
+wL: 32.93 wR: 83.03
+pwmL: 884.84 pwmR: 3205.80
+
+Tiempo: 0.00
+x= 2.32 vx= 0.01y= 0.15 vy= -0.00theta= 1.12 theta_dot= 0.01
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.03 u2= 0.87
+
+wL: 32.94 wR: 82.86
+pwmL: 885.09 pwmR: 3197.70
+
+Tiempo: 0.00
+x= 2.32 vx= -0.02y= 0.15 vy= 0.01theta= 1.12 theta_dot= 0.00
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.03 u2= 0.87
+
+wL: 32.91 wR: 82.83
+pwmL: 883.70 pwmR: 3196.33
+
+Tiempo: 0.00
+x= 2.31 vx= -0.02y= 0.15 vy= 0.01theta= 1.11 theta_dot= -0.07
+
+Tiempo: 0.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 0.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 2.04 u2= 0.89
+
+wL: 32.79 wR: 83.60
+pwmL: 877.79 pwmR: 3232.18
+
+Tiempo: 1.00
+x= 2.32 vx= 0.01y= 0.15 vy= 0.00theta= 1.11 theta_dot= 0.00
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.83 u2= 0.89
+
+wL: 83.92 wR: 134.73
+pwmL: 3301.16 pwmR: 5610.46
+
+Tiempo: 1.00
+x= 2.32 vx= 0.00y= 0.15 vy= 0.00theta= 1.11 theta_dot= 0.01
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.83 u2= 0.89
+
+wL: 83.97 wR: 134.60
+pwmL: 3303.49 pwmR: 5604.44
+
+Tiempo: 1.00
+x= 2.32 vx= -0.01y= 0.15 vy= 0.00theta= 1.11 theta_dot= 0.00
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.83 u2= 0.89
+
+wL: 84.07 wR: 134.71
+pwmL: 3308.32 pwmR: 5609.17
+
+Tiempo: 1.00
+x= 2.32 vx= -0.01y= 0.15 vy= 0.00theta= 1.11 theta_dot= -0.03
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.83 u2= 0.89
+
+wL: 83.89 wR: 134.89
+pwmL: 3300.04 pwmR: 5617.67
+
+Tiempo: 1.00
+x= 2.32 vx= 0.00y= 0.15 vy= 0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.83 u2= 0.89
+
+wL: 83.79 wR: 134.79
+pwmL: 3295.19 pwmR: 5612.91
+
+Tiempo: 1.00
+x= 2.32 vx= 0.01y= 0.15 vy= 0.00theta= 1.11 theta_dot= 0.03
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.82 u2= 0.89
+
+wL: 83.92 wR: 134.55
+pwmL: 3301.06 pwmR: 5602.05
+
+Tiempo: 1.00
+x= 2.32 vx= 0.01y= 0.15 vy= -0.00theta= 1.11 theta_dot= 0.00
+
+Tiempo: 1.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 1.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.82 u2= 0.89
+
+wL: 83.89 wR: 134.53
+pwmL: 3299.86 pwmR: 5600.88
+
+Tiempo: 2.00
+x= 2.32 vx= 0.01y= 0.15 vy= 0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.61 u2= 0.89
+
+wL: 135.04 wR: 185.68
+pwmL: 5724.09 pwmR: 7980.00
+
+Tiempo: 2.00
+x= 2.32 vx= 0.01y= 0.15 vy= 0.01theta= 1.10 theta_dot= -0.05
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.60 u2= 0.90
+
+wL: 134.46 wR: 185.81
+pwmL: 5696.58 pwmR: 7986.21
+
+Tiempo: 2.00
+x= 2.32 vx= -0.00y= 0.15 vy= -0.00theta= 1.10 theta_dot= 0.00
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.61 u2= 0.90
+
+wL: 134.59 wR: 185.94
+pwmL: 5702.65 pwmR: 7992.17
+
+Tiempo: 2.00
+x= 2.32 vx= -0.01y= 0.15 vy= -0.00theta= 1.11 theta_dot= 0.07
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.61 u2= 0.88
+
+wL: 135.19 wR: 185.64
+pwmL: 5730.91 pwmR: 7978.37
+
+Tiempo: 2.00
+x= 2.32 vx= -0.01y= 0.15 vy= -0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.62 u2= 0.88
+
+wL: 135.42 wR: 185.87
+pwmL: 5741.78 pwmR: 7989.04
+
+Tiempo: 2.00
+x= 2.32 vx= -0.00y= 0.15 vy= -0.00theta= 1.11 theta_dot= -0.03
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.62 u2= 0.89
+
+wL: 135.18 wR: 185.99
+pwmL: 5730.55 pwmR: 7994.66
+
+Tiempo: 2.00
+x= 2.32 vx= 0.01y= 0.15 vy= 0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 2.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 2.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.61 u2= 0.89
+
+wL: 135.00 wR: 185.82
+pwmL: 5722.09 pwmR: 7986.35
+
+Tiempo: 3.00
+x= 2.32 vx= -0.00y= 0.15 vy= -0.02theta= 1.11 theta_dot= 0.03
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.41 u2= 0.88
+
+wL: 186.56 wR: 237.02
+pwmL: 8165.71 pwmR: 10367.88
+
+Tiempo: 3.00
+x= 2.32 vx= -0.00y= 0.15 vy= -0.03theta= 1.11 theta_dot= 0.00
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.42 u2= 0.88
+
+wL: 186.77 wR: 237.22
+pwmL: 8175.43 pwmR: 10377.42
+
+Tiempo: 3.00
+x= 2.32 vx= 0.00y= 0.15 vy= 0.00theta= 1.11 theta_dot= -0.05
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.41 u2= 0.90
+
+wL: 186.01 wR: 237.18
+pwmL: 8139.57 pwmR: 10375.46
+
+Tiempo: 3.00
+x= 2.32 vx= 0.00y= 0.15 vy= 0.01theta= 1.11 theta_dot= 0.03
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.41 u2= 0.89
+
+wL: 186.23 wR: 237.05
+pwmL: 8150.27 pwmR: 10369.36
+
+Tiempo: 3.00
+x= 2.32 vx= 0.01y= 0.15 vy= -0.01theta= 1.11 theta_dot= 0.00
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.41 u2= 0.89
+
+wL: 186.29 wR: 237.10
+pwmL: 8152.70 pwmR: 10371.74
+
+Tiempo: 3.00
+x= 2.32 vx= 0.02y= 0.15 vy= -0.02theta= 1.09 theta_dot= -0.16
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.38 u2= 0.93
+
+wL: 184.33 wR: 237.28
+pwmL: 8060.07 pwmR: 10380.03
+
+Tiempo: 3.00
+x= 2.32 vx= 0.00y= 0.15 vy= -0.00theta= 1.09 theta_dot= 0.00
+
+Tiempo: 3.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 3.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 7.38 u2= 0.93
+
+wL: 184.31 wR: 237.26
+pwmL: 8058.92 pwmR: 10378.90
+
+Tiempo: 4.00
+x= 2.33 vx= 0.04y= 0.16 vy= 0.03theta= 1.13 theta_dot= 0.36
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.24 u2= 0.85
+
+wL: 239.85 wR: 288.15
+pwmL: 10691.41 pwmR: 12746.18
+
+Tiempo: 4.00
+x= 2.34 vx= 0.10y= 0.19 vy= 0.17theta= 1.13 theta_dot= 0.00
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.17 u2= 0.85
+
+wL: 237.97 wR: 286.27
+pwmL: 10602.08 pwmR: 12658.52
+
+Tiempo: 4.00
+x= 2.36 vx= 0.09y= 0.23 vy= 0.18theta= 1.15 theta_dot= 0.12
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.12 u2= 0.82
+
+wL: 237.17 wR: 283.83
+pwmL: 10564.05 pwmR: 12545.25
+
+Tiempo: 4.00
+x= 2.39 vx= 0.26y= 0.27 vy= 0.28theta= 1.15 theta_dot= 0.00
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.02 u2= 0.82
+
+wL: 234.34 wR: 281.01
+pwmL: 10430.10 pwmR: 12413.79
+
+Tiempo: 4.00
+x= 2.44 vx= 0.32y= 0.34 vy= 0.35theta= 1.14 theta_dot= -0.04
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.84 u2= 0.83
+
+wL: 228.99 wR: 276.20
+pwmL: 10176.49 pwmR: 12190.27
+
+Tiempo: 4.00
+x= 2.48 vx= 0.32y= 0.39 vy= 0.40theta= 1.14 theta_dot= 0.00
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.70 u2= 0.83
+
+wL: 225.02 wR: 272.23
+pwmL: 9988.26 pwmR: 12005.54
+
+Tiempo: 4.00
+x= 2.50 vx= 0.21y= 0.49 vy= 0.48theta= 1.14 theta_dot= 0.00
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.52 u2= 0.83
+
+wL: 219.92 wR: 267.13
+pwmL: 9746.82 pwmR: 11768.59
+
+Tiempo: 4.00
+x= 2.53 vx= 0.24y= 0.55 vy= 0.45theta= 1.16 theta_dot= 0.10
+
+Tiempo: 4.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 4.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.40 u2= 0.80
+
+wL: 216.91 wR: 262.84
+pwmL: 9603.89 pwmR: 11569.02
+
+Tiempo: 5.00
+x= 2.56 vx= 0.26y= 0.63 vy= 0.50theta= 1.16 theta_dot= 0.00
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 10.07 u2= 0.80
+
+wL: 264.69 wR: 310.63
+pwmL: 11868.61 pwmR: 13791.61
+
+Tiempo: 5.00
+x= 2.60 vx= 0.28y= 0.70 vy= 0.45theta= 1.15 theta_dot= -0.03
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.90 u2= 0.81
+
+wL: 259.75 wR: 306.05
+pwmL: 11634.39 pwmR: 13578.72
+
+Tiempo: 5.00
+x= 2.63 vx= 0.23y= 0.77 vy= 0.50theta= 1.15 theta_dot= 0.00
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.73 u2= 0.81
+
+wL: 254.91 wR: 301.21
+pwmL: 11405.06 pwmR: 13353.66
+
+Tiempo: 5.00
+x= 2.67 vx= 0.25y= 0.85 vy= 0.53theta= 1.07 theta_dot= -0.69
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.29 u2= 0.97
+
+wL: 237.67 wR: 292.91
+pwmL: 10588.15 pwmR: 12967.31
+
+Tiempo: 5.00
+x= 2.70 vx= 0.25y= 0.92 vy= 0.51theta= 1.07 theta_dot= 0.00
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.13 u2= 0.97
+
+wL: 233.12 wR: 288.35
+pwmL: 10372.45 pwmR: 12755.63
+
+Tiempo: 5.00
+x= 2.74 vx= 0.31y= 0.99 vy= 0.49theta= 1.01 theta_dot= -0.48
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.72 u2= 1.07
+
+wL: 218.61 wR: 279.85
+pwmL: 9684.88 pwmR: 12360.15
+
+Tiempo: 5.00
+x= 2.78 vx= 0.32y= 1.06 vy= 0.55theta= 1.01 theta_dot= 0.00
+
+Tiempo: 5.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 5.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.56 u2= 1.07
+
+wL: 213.98 wR: 275.22
+pwmL: 9465.32 pwmR: 12144.68
+
+Tiempo: 6.00
+x= 2.83 vx= 0.35y= 1.13 vy= 0.43theta= 1.01 theta_dot= 0.00
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 10.08 u2= 1.07
+
+wL: 257.46 wR: 318.69
+pwmL: 11525.73 pwmR: 14166.75
+
+Tiempo: 6.00
+x= 2.88 vx= 0.35y= 1.20 vy= 0.45theta= 0.94 theta_dot= -0.52
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.55 u2= 1.18
+
+wL: 239.05 wR: 306.55
+pwmL: 10653.47 pwmR: 13601.91
+
+Tiempo: 6.00
+x= 2.91 vx= 0.31y= 1.27 vy= 0.50theta= 0.94 theta_dot= 0.00
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.38 u2= 1.18
+
+wL: 234.16 wR: 301.66
+pwmL: 10421.64 pwmR: 13374.39
+
+Tiempo: 6.00
+x= 2.94 vx= 0.32y= 1.31 vy= 0.49theta= 0.99 theta_dot= 0.37
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.55 u2= 1.10
+
+wL: 241.35 wR: 304.43
+pwmL: 10762.48 pwmR: 13503.34
+
+Tiempo: 6.00
+x= 3.02 vx= 0.41y= 1.43 vy= 0.60theta= 0.99 theta_dot= 0.00
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.27 u2= 1.10
+
+wL: 233.27 wR: 296.35
+pwmL: 10379.44 pwmR: 13127.43
+
+Tiempo: 6.00
+x= 3.07 vx= 0.45y= 1.51 vy= 0.57theta= 0.95 theta_dot= -0.25
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.89 u2= 1.16
+
+wL: 221.12 wR: 287.16
+pwmL: 9803.68 pwmR: 12700.16
+
+Tiempo: 6.00
+x= 3.12 vx= 0.44y= 1.57 vy= 0.48theta= 0.95 theta_dot= 0.00
+
+Tiempo: 6.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 6.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.75 u2= 1.16
+
+wL: 216.97 wR: 283.01
+pwmL: 9607.00 pwmR: 12507.14
+
+Tiempo: 7.00
+x= 3.16 vx= 0.38y= 1.63 vy= 0.48theta= 0.94 theta_dot= -0.14
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 10.12 u2= 1.18
+
+wL: 255.24 wR: 322.90
+pwmL: 11420.58 pwmR: 14362.23
+
+Tiempo: 7.00
+x= 3.20 vx= 0.35y= 1.69 vy= 0.45theta= 0.94 theta_dot= 0.00
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 9.96 u2= 1.18
+
+wL: 250.76 wR: 318.42
+pwmL: 11208.17 pwmR: 14153.77
+
+Tiempo: 7.00
+x= 3.25 vx= 0.36y= 1.76 vy= 0.50theta= 0.82 theta_dot= -0.91
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 8.92 u2= 1.36
+
+wL: 215.88 wR: 293.68
+pwmL: 9555.47 pwmR: 13003.35
+
+Tiempo: 7.00
+x= 3.31 vx= 0.37y= 1.83 vy= 0.47theta= 0.60 theta_dot= -1.75
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 6.74 u2= 1.65
+
+wL: 145.43 wR: 239.73
+pwmL: 6216.46 pwmR: 10494.00
+
+Tiempo: 7.00
+x= 3.38 vx= 0.46y= 1.90 vy= 0.51theta= 0.60 theta_dot= 0.00
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 6.54 u2= 1.65
+
+wL: 139.59 wR: 233.89
+pwmL: 5939.53 pwmR: 10222.22
+
+Tiempo: 7.00
+x= 3.45 vx= 0.47y= 1.97 vy= 0.48theta= 0.46 theta_dot= -1.07
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 4.96 u2= 1.79
+
+wL: 90.59 wR: 192.78
+pwmL: 3617.25 pwmR: 8310.14
+
+Tiempo: 7.00
+x= 3.50 vx= 0.38y= 2.01 vy= 0.42theta= 0.46 theta_dot= 0.00
+
+Tiempo: 7.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 7.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 4.83 u2= 1.79
+
+wL: 87.04 wR: 189.22
+pwmL: 3448.87 pwmR: 8144.89
+
+Tiempo: 8.00
+x= 3.55 vx= 0.38y= 2.07 vy= 0.43theta= 0.46 theta_dot= 0.00
+
+Tiempo: 8.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 8.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 5.58 u2= 1.79
+
+wL: 108.38 wR: 210.57
+pwmL: 4460.39 pwmR: 9137.59
+
+Tiempo: 8.00
+x= 3.60 vx= 0.42y= 2.11 vy= 0.41theta= 0.13 theta_dot= -2.60
+
+Tiempo: 8.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 8.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 1.20 u2= 1.98
+
+wL: -22.41 wR: 90.85
+pwmL: -1738.11 pwmR: 3569.12
+
+Tiempo: 8.00
+x= 3.68 vx= 0.57y= 2.18 vy= 0.54theta= 0.34 theta_dot= 1.62
+
+Tiempo: 8.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 8.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.70 u2= 1.89
+
+wL: 51.84 wR: 159.57
+pwmL: 1780.66 pwmR: 6765.46
+
+Tiempo: 8.00
+x= 3.78 vx= 0.67y= 2.27 vy= 0.61theta= 0.34 theta_dot= 0.00
+
+Tiempo: 8.00
+xd= 3.30 xd_dot= 0.00 xd_ddot= 0.00
+yd= 8.30 yd_dot= 1.00 yd_ddot= 0.00
+thetad= 1.57 thetad_dot= 0.00
+u1= 3.46 u2= 1.89
+
+wL: 45.04 wR: 152.77
+pwmL: 1458.59 pwmR: 6449.38
