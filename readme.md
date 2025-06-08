@@ -248,4 +248,4 @@ Para funcionalidades y clases adicionales, revisar los códigos de *Marvelmind.h
 [3] Marvelmind Robotics, “Marvelmind C,” _GitHub_, Mar. 11, 2018. https://github.com/MarvelmindRobotics/marvelmind.c (Consultado el 05, Mayo, 2024).
 
 ## Contacto
-Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en alejandrogaco31@gmail.com
+Documentación elaborada por Alejandro García Cortez a partir de la librería desarrollada por racarla96. Contacto en [alejandrogaco31@gmail.com](mailto:alejandrogaco31@gmail.com)
